@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/fdevdallas" target="blank"><img src="https://img.shields.io/twitter/follow/fdevdallas?logo=twitter&style=for-the-badge" alt="fdevdallas" /></a> </p>
 
-- 🔭 I’m currently working on **Future STEM**
+- 🔭 I’m currently working on **Sol Dot Net**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **C# & Powershell**
 
-- 👯 I’m looking to collaborate on **Capstone**
+<!-- - 👯 I’m looking to collaborate on **** -->
 
-- 🤝 I’m looking for help with **Personal Website**
+- 🤝 I’m looking for help with **C# .NET MVC**
 
 - 💬 Ask me about **JavaScript and Java**
 
