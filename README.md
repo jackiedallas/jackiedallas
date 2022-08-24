@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/fdevdallas" target="blank"><img src="https://img.shields.io/twitter/follow/fdevdallas?logo=twitter&style=for-the-badge" alt="fdevdallas" /></a> </p>
 
-- 🔭 I’m currently working on **Sol Dot Net**
+- 🔭 I’m currently working on **PS Script & Packer for Linux VM Deployment with VirtualBox**
 
 - 🌱 I’m currently learning **C# & Powershell**
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 🤝 I’m looking for help with **C# .NET MVC**
+- 🤝 I’m looking for help with **C# & Powershell**
 
 - 💬 Ask me about **JavaScript and Java**
 
