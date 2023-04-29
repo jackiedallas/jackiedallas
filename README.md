@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/fdevdallas" target="blank"><img src="https://img.shields.io/twitter/follow/fdevdallas?logo=twitter&style=for-the-badge" alt="fdevdallas" /></a> </p>
 
-- 🔭 I’m currently working on **PS Script & Packer for Linux VM Deployment with VirtualBox**
+- 🔭 I'm currently developing automation scripts in Powershell.
 
-- 🌱 I’m currently learning **C# & Powershell**
+- 🌱 I’m currently learning Azure Cloud Environment.
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 🤝 I’m looking for help with **C# & Powershell**
+- 🤝 I’m looking for help with **Powershell**
 
-- 💬 Ask me about **JavaScript and Java**
+- 💬 Ask me about **JavaScript, Java, and Powershell**
 
 - 📫 How to reach me **jackie.r.dallas@gmail.com**
 
