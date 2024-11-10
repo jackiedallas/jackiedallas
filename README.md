@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/fdevdallas" target="blank"><img src="https://img.shields.io/twitter/follow/fdevdallas?logo=twitter&style=for-the-badge" alt="fdevdallas" /></a> </p>
 
-- 🔭 I'm currently developing automation scripts in Powershell.
-
-- 🌱 I’m currently learning Azure Cloud Environment.
+- 🌱 I’m currently learning Python.
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 🤝 I’m looking for help with **Powershell**
+- 🤝 I’m looking for help with **Kubernetes**
 
 - 💬 Ask me about **JavaScript, Java, and Powershell**
 
